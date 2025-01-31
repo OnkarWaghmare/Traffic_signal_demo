@@ -1,7 +1,7 @@
 import "./styles.css";
 import sampleStore from "./utils/store";
 import { Provider } from "react-redux";
-import About from "./Compon/About";
+import About from "./components/About";
 
 export default function App() {
   return (
