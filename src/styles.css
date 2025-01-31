@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  .signal {
+    height: 100px;
+    width: 100px;
+    background-color: lightgray;
+    border-radius: 50%;
+    margin: 5px;
+  }
+}
